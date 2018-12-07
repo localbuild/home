@@ -1,2 +1,2 @@
 # home
-For Research and DEvelopment
+For Research and Development
