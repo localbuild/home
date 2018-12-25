@@ -13,7 +13,7 @@ public class FirstOne {
 	
 	@RequestMapping("/")
     String hello() {
-        return "Hello First Home";
+        return "Happy New Year";
     }
 	
 	 public static void main(String[] args) throws Exception {
